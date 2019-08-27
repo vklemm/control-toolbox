@@ -4,6 +4,7 @@ Licensed under the BSD-2 license (see LICENSE file in main directory)
  **********************************************************************************************************************/
 
 #pragma once
+#include <iostream>
 
 namespace ct {
 namespace optcon {

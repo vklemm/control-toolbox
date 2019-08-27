@@ -81,3 +81,5 @@ private:
 
 }  // namespace optcon
 }  // namespace ct
+
+#include <ct/optcon/lqr/riccati/DARE-impl.hpp>
